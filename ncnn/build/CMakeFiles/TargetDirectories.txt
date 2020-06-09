@@ -1,0 +1,3 @@
+/home/mario/Projects/Gaotong/centernet_mobilenetv2_ncnn-master/build/CMakeFiles/rebuild_cache.dir
+/home/mario/Projects/Gaotong/centernet_mobilenetv2_ncnn-master/build/CMakeFiles/demo.dir
+/home/mario/Projects/Gaotong/centernet_mobilenetv2_ncnn-master/build/CMakeFiles/edit_cache.dir
