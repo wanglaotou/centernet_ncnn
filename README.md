@@ -143,6 +143,6 @@ If you find this project useful for your research, please use the following BibT
 
 
 ## how to use centernet-ncnn
-cd centernet_ncnn/src/lib && python3 pytorch2onnx.py
-install onnx && onnx2ncnn centernet.onnx centernet.param centernet.bin
-cd centernet_ncnn/ncnn && ./build/demo ../models/ your_img_path
+- cd centernet_ncnn/src/lib && python3 pytorch2onnx.py
+- install onnx && onnx2ncnn centernet.onnx centernet.param centernet.bin
+- cd centernet_ncnn/ncnn && ./build/demo ../models/ your_img_path
